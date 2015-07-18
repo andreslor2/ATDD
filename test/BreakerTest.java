@@ -19,7 +19,7 @@ public class BreakerTest {
 	public void XXX() {
 		String resultado;
 		resultado = cb.encontrarNumero("2347");
-		assertEquals("XXXX", resultado);
+		assertEquals("XXX", resultado);
 	}
 	
 	@Test
